@@ -14,8 +14,8 @@ markdown:           rdiscount
 
 # Navigation
 nav:
-#  - name:           "About"
-#    href:           "//gfjaru.github.io/Kiko/about"
+  - name:           "About"
+    href:           "/about"
 
 # Sass
 sass:
