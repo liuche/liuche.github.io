@@ -3,7 +3,10 @@
 # # # # # # # #
 
 # Basic
-name:               "liucheblog"
+name:               liucheblog
+email:              liuche@mozilla.com
+github_username:    liuche
+facebook_username:  cxliu
 
 # URL
 baseurl:            "" #For Root Domain
